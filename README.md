@@ -26,7 +26,7 @@ It logs all keyboard events and prints them both to the console and a text file 
 - Windows OS
 - GCC compiler (e.g., via MinGW)
 
-## 🔧 How to Compile
+## 🔧 How to Compile and run
 
 Open terminal in project directory and run:
 
